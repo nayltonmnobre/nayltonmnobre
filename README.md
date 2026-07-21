@@ -149,31 +149,15 @@ A plataforma contempla módulos como:
 <div align="center">
 
   <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayltonmnobre&theme=github_dark"
-    alt="Resumo do perfil de Naylton Nobre"
-  />
-
-  <br><br>
-
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayltonmnobre&theme=github_dark"
-    alt="Linguagens por repositório"
+    height="170"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub de Naylton Nobre"
   />
 
   <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayltonmnobre&theme=github_dark"
-    alt="Estatísticas gerais do GitHub"
-  />
-
-  <br><br>
-
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nayltonmnobre&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições de Naylton Nobre"
+    height="170"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais utilizadas por Naylton Nobre"
   />
 
 </div>
